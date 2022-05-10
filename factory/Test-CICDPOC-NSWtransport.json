@@ -1,0 +1,9 @@
+{
+	"name": "Test-CICDPOC-NSWtransport",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "171ad44b-b43e-4d20-9a29-2f7b674ad7bf",
+		"tenantId": "840f444f-3c56-46d7-a120-3448ecc8e653"
+	}
+}
